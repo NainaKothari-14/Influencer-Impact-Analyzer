@@ -2,4 +2,3 @@ pandas
 streamlit>=1.30.0
 matplotlib
 seaborn
-plotly
