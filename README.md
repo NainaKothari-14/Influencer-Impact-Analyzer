@@ -1,4 +1,4 @@
-# ⚡ Influencer Impact Analyzer
+#  Influencer Impact Analyzer
 
 > **Beyond follower counts — measuring real influence.**
 
